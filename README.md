@@ -1,1 +1,3 @@
 # CornerGrocery
+
+Hey there my name is Tenzing and welcome to my program!!! This program was created to track and display specific items purchased in a grocery store throughout a given day. This program required me to effiecently code python and C++ to make them compatabile with each other. I also neatly organized my file strucutre which is my first time doing so. If i had more time to code on this project I would probably make a UI for this so it could actually be a useuable product. Currently it is a skeleton program however with a little bit of TLC this can be changed. The skills that I attained in this project which will be easily tranferable are to make langauges compatible with each other and to debug effiecntly. 
